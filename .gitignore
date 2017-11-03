@@ -1,0 +1,10 @@
+*.iml
+.DS_Store
+.git/
+.idea
+.irb-history
+build/
+.gradle
+local.properties
+*.hprof
+captures/
